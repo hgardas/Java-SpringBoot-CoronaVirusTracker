@@ -3,6 +3,6 @@
 
 ****Harika Gardas****
 
--Spring Boot
--Apache CSVFormat
--Thymeleaf
+* Spring Boot
+* Apache CSVFormat
+* Thymeleaf
