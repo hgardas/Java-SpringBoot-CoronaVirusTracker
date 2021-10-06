@@ -1,7 +1,6 @@
 # Java-SpringBoot-CoronaVirusTracker
 
-
-****Harika Gardas****
+Name: ****Harika Gardas****
 
 * Spring Boot
 * Apache CSVFormat
